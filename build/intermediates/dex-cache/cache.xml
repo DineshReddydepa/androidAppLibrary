@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_7503bcbacb76e47224e5e6443d12897b9745da0f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cce542cf4da93e9040e0a52425989daa9bc3207f">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bcdfbcda4daaae35ec3322bc205c8f9ec2be5f19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_61f24804cac0ff4287be6c744d712ec10f915d9a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_f8618bf3bcaa082f589eb5b2d62d0ce28e5367f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cb260497eee91f5c431423d519bd6dc1b1bad0fa">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8cdf8f3e02d11d250c7d6d8deb4760d506abe451\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_feffa492626752e538817e02b2920ad61a070bcd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_3a05c3a9e0614f1ac6700a851bb178382c4ffb78\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.edmodo\cropper\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="66467578c335f7a6babdbe01f7f0ac63230f578e">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.edmodo-cropper-1.0.1_fc57a588986069cf766c437e71ee1d92b9359c42\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_39540dfedc035d2688cd8005d13231d724452fab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_efd48357c8302377684f3c53117588088468a7bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_a5c85c449e396157c100dc2539eb52229f8eb0ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Dines\Desktop\library\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_c64ab2d95905a4478cba67032b2c9dbc73cb6a64\classes.dex" />
+    </item>
+
+</items>
