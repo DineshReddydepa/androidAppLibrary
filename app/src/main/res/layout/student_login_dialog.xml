@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:id="@+id/admin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Admin Login"
+        android:layout_marginTop="20dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/orange"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Student LogIn"
+            android:textSize="26dp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_weight="1"/>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+
+
+        <EditText
+            android:id="@+id/etmail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/mailid"
+            android:layout_marginLeft="12sp"
+            android:layout_marginRight="12sp"
+            android:inputType="textPersonName"/>
+
+
+        <EditText
+            android:id="@+id/etpassworda"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/password"
+            android:layout_marginLeft="12sp"
+            android:layout_marginRight="12sp"
+            android:inputType="textPassword"/>
+
+        <Button
+            android:id="@+id/btnsumbits"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Log In"
+            android:background="@color/orange"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:layout_marginTop="40dp"
+            android:layout_gravity="end"
+            android:layout_marginRight="12sp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginBottom="20dp"/>
+        <Button
+            android:id="@+id/btnreg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Register"
+            android:background="@color/orange"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="end"
+            android:layout_marginRight="12sp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginBottom="20dp"/>
+
+    </LinearLayout>
+</LinearLayout>
